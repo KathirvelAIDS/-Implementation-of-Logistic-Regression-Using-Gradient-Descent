@@ -141,9 +141,18 @@ Sigmoid function graph:
 
 
 x_train_grad value:
-![image](https://github.com/KathirvelAIDS/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/94911373/a3963342-135c-4db0-94e0-47601e5b611d)
+
+
+
+![image](https://github.com/KathirvelAIDS/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/94911373/a3963342-135c-4db0-94e0-47601e5b611d
+
+
+
+
 
 y_train_grad value:
+
+
 
 
 
@@ -153,6 +162,8 @@ y_train_grad value:
 
 
 Print res.x:
+
+
 
 ![image](https://github.com/KathirvelAIDS/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/94911373/b6197a0b-f50b-40d8-b75d-f17f2cbefea4)
 
