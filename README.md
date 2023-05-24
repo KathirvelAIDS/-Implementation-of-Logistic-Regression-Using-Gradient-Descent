@@ -121,10 +121,14 @@ np.mean(predict(res.x,X)==y)
 ## Output:
 
 Array Value of x:
+
+
 ![image](https://github.com/KathirvelAIDS/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/94911373/c019cbc2-8eb9-43ea-bbb6-07c2180fdebe)
 
 
 Array Value of Y:
+
+
 ![image](https://github.com/KathirvelAIDS/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/94911373/ea9aaa49-ce97-40bc-a03c-68b91f69b1d7)
 
 
@@ -144,7 +148,8 @@ x_train_grad value:
 
 
 
-![image](https://github.com/KathirvelAIDS/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/94911373/a3963342-135c-4db0-94e0-47601e5b611d
+![image](https://github.com/KathirvelAIDS/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/94911373/c360029e-50e2-43a2-b587-00ad8add8945)
+
 
 
 
