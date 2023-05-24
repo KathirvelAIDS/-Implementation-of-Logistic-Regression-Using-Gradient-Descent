@@ -15,7 +15,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 4.Predict the values of array.
 5.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
 6.Obtain the graph.
-
+7.End the program 
 
 ~~~
 ## Program:
@@ -55,6 +55,7 @@ accuracy=metrics.accuracy_score(Y_test,Y_pred)
 recall_sensitivity=metrics.recall_score(Y_test,Y_pred,pos_label=1)
 recall_sensiticity=metrics.recall_score(Y_test,Y_pred,pos_label=0)
 recall_sensitivity,recall_sensiticity
+
 
 from matplotlib.colors import ListedColormap
 X_set,Y_set=X_train,Y_train
